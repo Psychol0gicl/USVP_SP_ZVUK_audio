@@ -1,0 +1,3 @@
+Ahoj, toto jsou moje data! Mám python moc rád, protože je jednoduchý a dobře se s ním pracuje.
+Jsou tu jen tři řádky, aby toho nebylo moc. Python je pomalý, tak toho víc nezvládá.
+Takže nashledanou, protože toto už je poslední věta.
